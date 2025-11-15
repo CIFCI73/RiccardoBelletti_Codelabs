@@ -1,0 +1,8 @@
+# Cartelle di build
+/build
+.gradle
+
+# File di IntelliJ / Android Studio
+.idea/
+*.iml
+local.properties
